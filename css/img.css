@@ -1,0 +1,15 @@
+
+img.icon-box {
+   padding: 1em 0em 0.5em 0em;
+   width: auto;
+   height: 100px;
+}
+
+img.icon--small {
+   height: 48px;
+}
+
+img.icon--socialMedia {
+   height: 16px;
+   margin: 0em 1.25em;
+}

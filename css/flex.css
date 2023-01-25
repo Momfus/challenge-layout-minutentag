@@ -1,0 +1,19 @@
+
+
+.flex {
+   display: flex;
+}
+
+.flex--centerAll {
+   justify-content: center;
+   align-items: center;
+}
+
+.flex--columns {
+   flex-direction: column;
+}
+
+
+.flex--wrap {
+   flex-wrap: wrap;
+}

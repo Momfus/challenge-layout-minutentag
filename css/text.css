@@ -1,0 +1,44 @@
+.text {
+   text-align: center;
+   font-style: normal;
+}
+
+.text--normal {
+   font-weight: 400;
+   font-size: min(max(13px, 4vw), 13px);
+   line-height: 24px;  
+}
+
+.text--title {
+   font-weight: 700;
+   font-size: min(max(29px, 6vw), 29px);
+   line-height: 152%;
+   letter-spacing: -0.75px;
+}
+
+.text--subTitle {
+   font-weight: 700;
+   font-size: min(max(24px, 4vw), 24px);
+   line-height: 120%;
+   letter-spacing: -0.3px;
+
+   margin-left: 0.7em;
+   margin-right: 0.7em;
+}
+
+.text--thirdTitle {
+   font-weight: 700;
+   font-size: min(max(15px, 4vw), 15px);
+   line-height: 100%;
+   letter-spacing: -0.1875px;
+   margin: 0px;
+}
+
+.text--footerTitle {
+   font-weight: 700;
+   font-size: min(max(19px, 4vw), 19px);
+   line-height: 158%;
+   letter-spacing: -0.2375px;
+
+   margin-bottom: 0px;
+}
